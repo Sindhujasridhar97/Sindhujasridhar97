@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sindhujasridhar97
-- 👀 I’m interested in Frontend 
+- 👀 I’m interested in Full stack
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me
 - sindhujasridhar97@gmail.com 
